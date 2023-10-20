@@ -28,4 +28,4 @@ Este é um projeto de site que implementa o método Pomodoro para ajudar os usu�
 </ol>
 
 Se preferir usando o link:
-<a href="fokus-metodo-pomodoro.vercel.app">Fokus</a>
+[Fokus](https://fokus-metodo-pomodoro.vercel.app/)
